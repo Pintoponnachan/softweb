@@ -660,11 +660,14 @@ Publish the website in the given URL.
 ```
 
 ## OUTPUT:
-![Alt text](<exp-7 VS.png>)
-![Alt text](<mojotech index.png>)
-![Alt text](<mojotech product.png>)
-![Alt text](<mojotech people.png>)
-![Alt text](<mojotech contact.png>)
+![image](https://github.com/Pintoponnachan/softweb/assets/131936892/878e2b5e-7f79-4595-a300-c71b5463752e)
+![image](https://github.com/Pintoponnachan/softweb/assets/131936892/2371f010-5363-493f-91aa-60705f56df05)
+![image](https://github.com/Pintoponnachan/softweb/assets/131936892/0a6103b5-a00f-4f4a-bbe5-fec52a691481)
+![image](https://github.com/Pintoponnachan/softweb/assets/131936892/72100581-cba0-49b0-bd56-4778d808b25d)
+![image](https://github.com/Pintoponnachan/softweb/assets/131936892/d187803e-9b21-41e4-9d8e-b4b8da1e3b37)
+
+
+
 
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
